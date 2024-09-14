@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    border-radius:20px ;
+    border: solid 1px black;
+    
+}
+h2{
+    color: green;
+}
+h3{
+    text-align: center;
+    color: rgb(28, 128, 28);
+    background-color: yellow;
+}
+h4{
+    color: green;
+}
+.w0{
+    color: white;
+    background-color: rgb(105, 105, 226)
+    ;
+    width: 200px;
+}
+.w1{
+    color: white;
+    background-color: red;
+}
+.w2{
+    background-color: blue;
+    color: white;
+}
+#w3{
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+#w4{
+    color: white;
+    background-color: black ;
+    text-align: center;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+#w5{
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+#w6{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
